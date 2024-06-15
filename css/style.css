@@ -1,0 +1,10 @@
+* {font-family: 'DM sans', Courier, monospace;}
+p.inicio {color: white;text-align: center;text-size-adjust: 10px
+;}
+header {background-color: #ff7f0d;}
+img#header {display: block; width: 25%; margin: auto;}
+h1#titulos {background-color: black; color: #ff7f0d;}
+h2#subtitulosinfo {color: black;}
+p {margin: 13px;}
+ul {display: flex;text-align:center;background-color: #ff7f0d;color: white;width: auto; height: 150px;}
+li {padding: 20px;margin: 50px;}
