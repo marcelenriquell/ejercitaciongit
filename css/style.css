@@ -1,10 +1,15 @@
 * {font-family: 'DM sans', Courier, monospace;}
 p.inicio {color: white;text-align: center;text-size-adjust: 10px
 ;}
-header {background-color: #ff7f0d;}
+header {background-color: #ff7f0d;background-image: image(..img);}
 img#header {display: block; width: 25%; margin: auto;}
 h1#titulos {background-color: black; color: #ff7f0d;}
 h2#subtitulosinfo {color: black;}
 p {margin: 13px;}
 ul {display: flex;text-align:center;background-color: #ff7f0d;color: white;width: auto; height: 150px;}
-li {padding: 20px;margin: 50px;}
+li {margin: 50px;}
+header.vegeta {background-image: url(../img/vegetawallpaper.avif) ;background-repeat: no-repeat;background-size: cover; background-position: 15% 45%;}
+img#headervegeta {display: block; width: 10%; margin: auto;}
+h1#titulosv {background-color: #ff7f0d; color: #ffffff;}
+.icono {font-size: 25px;color: #ffffff;text-align: center;}
+ul.menu {display: flex;text-align:center;background-color: #ff7f0d;color: white;width: auto; height: auto;}
