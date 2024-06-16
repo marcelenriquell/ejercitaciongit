@@ -1,0 +1,20 @@
+#parrafopiccolo {
+    background-color: orange;
+}
+#imgpiccolo {
+    width: 500px;
+    margin: 10px;
+}
+
+#img2 {
+    width: 100%;
+}
+
+#titulo-piccolo {
+    background-color: gray;
+    justify-content: center;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}

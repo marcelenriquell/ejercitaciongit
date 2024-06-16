@@ -1,0 +1,23 @@
+#imagen {
+   
+    display: block;
+    margin: 10px;
+    background-color: orange;
+    width: 100%;
+    
+}
+
+
+#titulo {
+    background-color: gray;
+    justify-content: center;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+#parrafosdelabiografia {
+    background-color: darkorange;
+}
+
+
